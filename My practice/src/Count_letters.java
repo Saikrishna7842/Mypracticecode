@@ -24,18 +24,18 @@ public class Count_letters {
 		
 		
 		
-		/*String a="saikrishna";
-		int count=0;
+		String a="saikrishna";
+		int count1=0;
 		String[]re=a.split("");
 		for(int i=0;i<a.length();i++){
 			if(re[i].equalsIgnoreCase("a")){
-				count++;
+				count1++;
 				
 				
 			}
 		}
 		
-		System.out.println(" "+count);*/
+		System.out.println(" "+count1);
 		
 	}
 
